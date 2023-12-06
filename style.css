@@ -1,0 +1,23 @@
+
+body {
+    background-image:url(background.jpg);
+}
+header {
+    text-align:center;
+    border-style:groove;
+    border-width:3px;
+    border-radius:15px;
+    color: blue;
+    font-size:70px;
+    border-color: darkred;
+    
+}
+table, th, td {
+    border: 5px;
+    border-style:groove;
+    border-radius: 15px;
+}
+a {
+    text-decoration:none;
+    color: blue;
+}
